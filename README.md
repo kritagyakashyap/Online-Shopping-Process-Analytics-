@@ -1,4 +1,4 @@
-##Online ##Shopping ##Process #Analysis
+##Online Shopping Process Analysis
 This project focuses on analyzing the purchasing behavior of online customers to gain insights into their shopping patterns. The analysis aims to understand factors influencing customer purchase decisions and identify trends in online shopping activities.
 
 Technologies Used
