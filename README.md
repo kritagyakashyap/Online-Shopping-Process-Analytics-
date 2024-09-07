@@ -9,7 +9,9 @@ SQL: Used for querying and analyzing the data related to customer behavior, tran
 ## Objectives
 
 •To explore the factors that influence online shopping decisions.
+
 •To identify patterns in customer purchasing behavior.
+
 •To provide actionable insights for improving customer engagement and sales strategies.
 
 ## Key Insights
